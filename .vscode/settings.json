@@ -1,0 +1,12 @@
+{
+    "sqltools.format": {
+        "language": "sql",
+        "indentSize": 2,
+        "reservedWordCase": "upper",
+        "linesBetweenQueries": 1
+    },
+    "[sql]": {
+        "editor.defaultFormatter": "mtxr.sqltools"
+    },
+    "editor.formatOnSave": true
+}
